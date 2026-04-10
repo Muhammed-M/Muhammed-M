@@ -1,20 +1,21 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=E6F700&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Muhammed+Bassiouni)](https://git.io/typing-svg)
+<h1 align="center">Hello 👋, I'm Muhammed Bassiouni</h1>
+
 
 
 
 ## 💡 About Me
 
-<img align="right" width="200" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
+<img align="right" width="180" src="https://media1.tenor.com/m/b2vtFvhHca8AAAAC/me.gif" />
 
 - Student at ITI AI/ML Track Intake 46<br/>
 - Always learning and working on improving my technical skills<br/>
 - Solid backend Python/ML skills and an eye for clean, modern FrontEnd design<br/>
-- Open to opportunities in AI or Data Science (internship or junior-level)<br/>
+- Open to opportunities in AI or Data Science (internship or junior-level) <=== Contact me 👇<br/>
 - Ex Supply Chain Planning Engnieer - Production Enginnering Graduate
 
 <br clear="both">
 
-## 🌐 Socials
+## 🌐 Connect
 <p align="left">
 
   <a href="mailto:mohamed.mahmoud9935@gmail.com" target="_blank" style="text-decoration: none;">
@@ -28,20 +29,6 @@
 
   
 </p>
-
-<h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Problem Solving </h2>
-
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammed_bassiouni/)
-
-#### 📊 LeetCode Stats
-<p>
-    <a href="https://leetcode.com/u/muhammed-m/">
-        <img src="https://leetcard.jacoblin.cool/muhammed-m?theme=dark&font=Song%20Myung&ext=heatmap">
-    </a>
-</p>
-
-
 
 
 <h2><img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Tech Stack</h2>
@@ -68,6 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" title="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="Pytorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" title="Colab" />
   
@@ -88,6 +76,22 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1280px-2023_Obsidian_logo.svg.png" width="40" title="Obsidian" />
   <img src="https://github.com/user-attachments/assets/1f7815db-655c-4924-b12c-5bf12b8f6196" width="40" title="Trello" />
 </p>
+
+
+<h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Problem Solving </h2>
+
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammed_bassiouni/)
+
+#### 📊 LeetCode Stats
+<p>
+    <a href="https://leetcode.com/u/muhammed-m/">
+        <img src="https://leetcard.jacoblin.cool/muhammed-m?theme=dark&font=Song%20Myung">
+    </a>
+</p>
+
+
+
 
 
 <h2> <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> GitHub Contributions </h2>
