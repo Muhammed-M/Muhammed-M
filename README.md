@@ -1,23 +1,32 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=E6F700&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Muhammed+Bassiouni)](https://git.io/typing-svg)
 
 
+
 ## 💡 About Me
+
+<img align="right" width="200" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
+
 - Student at ITI AI/ML Track Intake 46<br/>
 - Always learning and working on improving my technical skills<br/>
 - Solid backend Python/ML skills and an eye for clean, modern FrontEnd design<br/>
 - Open to opportunities in AI or Data Science (internship or junior-level)<br/>
 - Ex Supply Chain Planning Engnieer - Production Enginnering Graduate
 
+<br clear="both">
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-bassiouni-314469247/" target="_blank" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="40" />
-  </a>
 
   <a href="mailto:mohamed.mahmoud9935@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://camo.githubusercontent.com/37721330bfccf66cef0751f05a58b822007b5460ecb825adf0b100fc8f00fbd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="40" />
   </a>
+
+  
+  <a href="https://www.linkedin.com/in/muhammed-bassiouni-314469247/" target="_blank" style="text-decoration: none;">
+    <img src="https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="40" />
+  </a>
+
+  
 </p>
 
 <h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Problem Solving </h2>
@@ -27,8 +36,8 @@
 
 #### 📊 LeetCode Stats
 <p>
-    <a href="https://leetcode.com/u/muhammed_bassiouni/">
-        <img src="https://leetcard.jacoblin.cool/muhammed_bassiouni?theme=dark&font=Song%20Myung&ext=heatmap">
+    <a href="https://leetcode.com/u/muhammed-m/">
+        <img src="https://leetcard.jacoblin.cool/muhammed-m?theme=dark&font=Song%20Myung&ext=heatmap">
     </a>
 </p>
 
