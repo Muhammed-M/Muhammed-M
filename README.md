@@ -80,17 +80,12 @@
 
 <h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Problem Solving </h2>
 
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammed_bassiouni/)
-
 #### 📊 LeetCode Stats
 <p>
     <a href="https://leetcode.com/u/muhammed-m/">
-        <img src="https://leetcard.jacoblin.cool/muhammed-m?theme=dark&font=Song%20Myung">
+        <img src="https://leetcard.jacoblin.cool/muhammed-m?theme=dark&font=Abel">
     </a>
 </p>
-
-
 
 
 
