@@ -10,7 +10,7 @@
 - Student at ITI AI/ML Track Intake 46<br/>
 - Always learning and working on improving my technical skills<br/>
 - Solid backend Python/ML skills and an eye for clean, modern FrontEnd design<br/>
-- Open to opportunities in AI or Data Science (internship or junior-level) <=== Contact me 👇<br/>
+- Open to opportunities in AI or Data Science (internship or junior-level)
 - Ex Supply Chain Planning Engnieer - Production Enginnering Graduate
 
 <br clear="both">
