@@ -7,7 +7,7 @@
 
 <sub>Card inspired by <a href="https://github.com/Andrew6rant">Andrew6rant</a></sub>
 
-
+<!-- 
 <h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width="35" height="35"> Problem Solving</h2>
 
 #### 📊 LeetCode Stats
@@ -24,4 +24,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
