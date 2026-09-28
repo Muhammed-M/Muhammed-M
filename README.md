@@ -1,7 +1,7 @@
 <a href="https://github.com/Muhammed-M/Muhammed-M">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/main/card/output/dark_mode.svg">
-    <img alt="Muhammed Bassiouni's GitHub profile card" src="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/main/card/output/light_mode.svg">
+    <img width="100%" alt="Muhammed Bassiouni's GitHub profile card" src="https://raw.githubusercontent.com/Muhammed-M/Muhammed-M/main/card/output/light_mode.svg">
   </picture>
 </a>
 
