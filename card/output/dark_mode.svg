@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 <text fill="#c9d1d9">
 <tspan x="15" y="30">muhammed@bassiouni ———————————————————————————————————————————————————————————————————</tspan>
 <tspan x="15" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> .......................................................... </tspan><tspan class="value">macOS, Windows, Linux</tspan></tspan>
-<tspan x="15" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ................................................ </tspan><tspan class="value">27 years, 0 months, 23 days</tspan></tspan>
+<tspan x="15" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ................................................ </tspan><tspan class="value">27 years, 0 months, 24 days</tspan></tspan>
 <tspan x="15" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................................ </tspan><tspan class="value">TJM Labs Inc.</tspan></tspan>
 <tspan x="15" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ........................................................ </tspan><tspan class="value">Software Engineer I</tspan></tspan>
 <tspan x="15" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ...................................................... </tspan><tspan class="value">VSCode, Jupyter Notebook</tspan></tspan>
@@ -40,7 +40,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="430"><tspan class="dots">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="dots"> ............................................................... </tspan><tspan class="value">muhammed-m</tspan></tspan>
 <tspan x="15" y="470">- GitHub Stats ———————————————————————————————————————————————————————————————————————</tspan>
 <tspan x="15" y="490"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">35</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">5</tspan></tspan>
-<tspan x="15" y="510"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">270</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="15" y="510"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">270</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">5</tspan></tspan>
 <tspan x="15" y="530"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">460,204</tspan> ( <tspan class="add">731,918++</tspan>, <tspan class="del">271,714--</tspan> )</tspan>
 </text>
 </svg>
